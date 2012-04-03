@@ -1,3 +1,4 @@
+// Hello World test. Based on http://www.generation5.org/content/2003/gahelloworld.asp
 package genetic
 
 import (
